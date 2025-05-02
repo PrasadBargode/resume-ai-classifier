@@ -17,3 +17,23 @@ Extract skills, keywords, and generate intelligent visual insights.
 ```bash
 pip install -r requirements.txt
 streamlit run app/app.py
+
+
+
+---
+
+# ✅ Action Plan (To Build This Like a Pro)
+
+| Day | Task |
+|----|------|
+| Day 1–2 | Preprocess dataset, train basic TF-IDF + SVM model |
+| Day 3 | Resume parser (PDF → text) |
+| Day 4 | Build app.py with Streamlit UI (basic version) |
+| Day 5 | Add keyword extraction, word cloud |
+| Day 6 | NER with spaCy |  
+| Day 7 | Push to GitHub, deploy on Streamlit Cloud |  
+
+---
+
+
+
